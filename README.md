@@ -16,7 +16,7 @@ const config = {
 }
 ```
 
-*change 'user', 'password' into your own and create schema 'disney' in your own database
+* change 'user', 'password' into your own and create schema 'disney' in your own database
 
 2. Run nodejs server
 * Install dependencies: `npm install`
