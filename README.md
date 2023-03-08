@@ -1,6 +1,6 @@
-#disney_plus
+# disney_plus
 
-##How to Run
+## How to Run
 1.configure your local databse
 
 * Check ./db/config.js:
